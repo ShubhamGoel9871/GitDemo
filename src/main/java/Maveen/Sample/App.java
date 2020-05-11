@@ -1,11 +1,6 @@
 package Maveen.Sample;
 
 import org.testng.annotations.Test;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	@Test
@@ -18,4 +13,12 @@ public class App
         System.out.println( "Firsyt Update" );
         System.out.println( "seci=ond update" );
     }
+	@Test
+	public void main2()
+	{
+		 System.out.println( "Hello second" );
+	        System.out.println( "Hi Second" );
+	        System.out.println( "Bye Second" );
+		
+	}
 }
