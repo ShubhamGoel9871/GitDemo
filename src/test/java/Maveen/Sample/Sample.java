@@ -56,7 +56,7 @@ public class Sample {
 	@Test
 	public void new()
 	{
-		System.out.println("this is the new method");
+		System.out.println("this is the new method	");
 		
 	}
 }
